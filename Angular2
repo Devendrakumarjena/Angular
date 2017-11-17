@@ -1,0 +1,21 @@
+
+Installation of Angular 
+Step-1
+    first install typescript
+    In windows: npm install -g typescript
+    In ubantu : sudo npm install -g typescript
+Step-2
+    Angular App
+    sudo npm install -g angular-cli
+    
+    using the seed from the github
+     git clone https://github.com/angular/quickstart.git quickstart
+   
+  Step-3
+  
+  Installation of npm
+  npm install
+  
+  Step -4
+  for starting the sever in local
+  npm start
