@@ -9,13 +9,14 @@ Step-2
     sudo npm install -g angular-cli
     
     using the seed from the github
-     git clone https://github.com/angular/quickstart.git quickstart
+    To create the skeleton for the angular
+    git clone https://github.com/angular/quickstart.git quickstart
    
-  Step-3
+Step-3
   
   Installation of npm
   npm install
   
-  Step -4
+Step -4
   for starting the sever in local
   npm start
